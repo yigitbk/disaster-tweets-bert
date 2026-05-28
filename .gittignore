@@ -1,0 +1,6 @@
+*.csv
+results_fold_*/
+checkpoint-*/
+runs/
+.DS_Store
+__pycache__/
